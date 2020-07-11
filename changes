@@ -1,0 +1,4 @@
+Fix typo string->string in Window.h
+Remove OLD?!? "CheckInput()" from ClientMainScreen.h and ServerMainScreen.h
+Remove Camera from ServerMainScreen.h
+Change folder "Lightning" to "lightning"
